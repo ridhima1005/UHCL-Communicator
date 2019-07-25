@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\44b10817a4655e73174f44162ecebbeb8482cb94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e86beefed7d6d719036b9eeae7c8a3e8e21cb801\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\1f33271b2080223ff728dab9fe6e577b338c5ebc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be7eb8f73591879367a11ebed6e84aa29190bd24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\77dbed566996e6ccdd8d7e6cf561c48f47abc5f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae9b6d09a4afdafb805a98013d764497e2100a15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\c7cc340f1f65fa78a19b99908eb43c5562116e4a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_806e070011848bac3f8a40220a1fea6eadd8a36d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\df35a70806e04a7cc0719a8521f8e4aee3df7b50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74b66508a908e6dd677ebc227da11fcc559b8fb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\85b44904af77bdb5386aff6280e92bf360abae49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c6ab7e6e2ea9a3837616200f5e471bbcbcd3417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\6e2169b76915f400365309aa4c758fc174b0176e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30df7258ed2b89377fb0c73d2c2476205e175b78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_10a7bcd016c796fb33410abd172e4f013a18ce67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\d820989e5abcd4c6b15299c56af8e83114ecadd0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fbbc319d50d4d3382b32329a015fe586274569bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\6ad1e0cff04a64a49c5d554c8a16e3a8535e4f76\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_baf86767e88366cd47a3da433464e771bbf38f37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\05e051f507085bcb6cde4d45fc1b2031c7a0412f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c089d4f138e84d51b3ff5c39530841764045d01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\c6353fa7e720c8664cf50b38fd829eb6edc7b335\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_967a42989515ae5eb1acabf9515379e3e89b8171\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\9ed22292297814a03b10ac853b20ce9c331c1fca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87862da19787e7c9dc798784d800a96b451b0e12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e0056ba75a7d9119fefd4a80b580b41f0eaa08af">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_191ebf6eb44e9e85273771701383cc7607bd53ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\cb900c6969a60422e209784bbf6b68fa2701ff56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64d39c9d2288556733ad6b2095a26d1b1bae0da6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_17c3810de5b9888a3eed3f36b4a509cc2ef20a40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\67f611d6cd914c21116381e86db3f0c04d8cf8d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db1209c89110ce06ddc93ef69347d99ddf92761c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\f25084f8050a8297ddf78a0bede73bf286dfdc23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd2306e4a97a51d02436f0ca478b53926c63aa5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\184e098fa9f89ce5385b3872e57298092beb81c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71303cd211c6c957dc0845b40fc4a5a8a4803622\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\7868390b19e1c3aeb236c7f8f933443e5e903a08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3fbcdb65f49d8df70b27e9b8031797d85d227e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\b44e7988e615a71d2377e3052e7242400f6bf36e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69f269dc0daa301622a8bc7fa2299c4b6d4e5e95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chinni\.android\build-cache\a6fc953f1f2234731e1e876f7bbb50cdf08ef95c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\chinni\AndroidStudioProjects\uhclcommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_188b08d5015fb9895b54581b6f3a3dbcc622dbf7\classes.dex" />
+    </item>
+
+</items>
