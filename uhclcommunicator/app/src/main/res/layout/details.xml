@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tableDetails"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:shrinkColumns="*"
+    android:stretchColumns="*">
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/textViewDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DETAILS"
+            android:gravity="center"
+            android:layout_span="7"
+            android:textStyle="bold"
+            android:typeface="normal"
+            android:textSize="30dp"
+            android:textColor="#000000"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow2"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/textViewName"
+            android:text="Name"
+            android:layout_span="3"
+            android:textStyle="bold"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:id="@+id/textViewName1"
+            android:text=""
+            android:layout_span="4"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow3"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/textViewStudId"
+            android:text="Student ID"
+            android:layout_span="3"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/textViewStudId1"
+            android:text=""
+            android:layout_span="4"
+            android:textSize="20dp"
+            android:gravity="center_horizontal"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow4"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/textViewStudEmail"
+            android:text="Student Email"
+            android:textSize="20dp"
+            android:layout_span="3"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/textViewEmail1"
+            android:text=""
+            android:layout_span="4"
+            android:textSize="20dp"
+            android:gravity="center_horizontal"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow8"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/textViewYear"
+            android:text="Admission Year"
+            android:layout_span="3"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/textViewYear1"
+            android:text=""
+            android:layout_span="4"
+            android:textSize="20dp"
+            android:gravity="center_horizontal"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow9"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/textViewDegree"
+            android:text="Degree"
+            android:layout_span="3"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/textViewDegree1"
+            android:text=""
+            android:layout_span="4"
+            android:textSize="20dp"
+            android:gravity="center_horizontal"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow5"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/textViewMajor"
+            android:text="Major"
+            android:layout_span="3"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/textViewMajor1"
+            android:text=""
+            android:layout_span="4"
+            android:textSize="20dp"
+            android:gravity="center_horizontal"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow6"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/textViewFaculty"
+            android:text="Faculty Advisor"
+            android:layout_span="3"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/textViewFaculty1"
+            android:text=""
+            android:layout_span="4"
+            android:textSize="20dp"
+            android:gravity="center_horizontal"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow7"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/textViewFacultyContact"
+            android:text="Advisor Contact"
+            android:textSize="20dp"
+            android:layout_span="3"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/textViewFacultyContact1"
+            android:text=""
+            android:textSize="20dp"
+            android:layout_span="4"
+            android:gravity="center_horizontal"/>
+
+    </TableRow>
+
+</TableLayout>

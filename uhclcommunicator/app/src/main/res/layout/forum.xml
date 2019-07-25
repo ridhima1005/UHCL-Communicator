@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    tools:context="com.example.chinni.uhclcommunicator.Forum">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FORUM"
+        android:textColor="#000000"
+        android:textSize="50px"
+        android:layout_weight="0.06"
+        android:textAlignment="center"/>
+
+    <Spinner
+        android:id="@+id/spinnerCriteria"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="1dp"
+        android:layout_weight="0.06"
+        android:text="Select Criteria"
+        android:textAlignment="center"/>
+        <!--android:prompt="@string/spinner_title"-->
+
+    <EditText
+        android:id="@+id/editTextSubject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_weight="0.10"
+        android:ems="10"
+        android:inputType="textEmailSubject"
+        android:text="Subject:"
+        android:textColor="#000000"
+        android:textSize="50px" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.06"
+        android:text="Description:"
+        android:textColor="#000000"
+        android:textSize="50px" />
+
+    <EditText
+        android:id="@+id/editTextDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.43"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:textColor="#000000"
+        android:textSize="50px" />
+
+    <Button
+        android:id="@+id/btn_post"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick=""
+        android:text="POST"
+        android:layout_weight="0.05"/>
+        <!--android:OnClick="postAuthnetication"-->
+
+</LinearLayout>

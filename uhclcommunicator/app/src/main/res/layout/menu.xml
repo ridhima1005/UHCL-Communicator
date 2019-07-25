@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+   <!-- <TextView-->
+    <Button
+        android:id="@+id/detailBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Details"
+        android:layout_weight="0.25"
+        android:textSize="50px"
+        android:textColor="#000000"
+        android:background="#32CD32"/>
+        <!--android:onClick="details"-->
+
+    <!-- <TextView-->
+    <Button
+        android:id="@+id/discussionBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.25"
+        android:background="#00BFFF"
+        android:text="Discussion Forum"
+        android:textSize="50px"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/viewBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.25"
+        android:text="VIEW POSTS"
+        android:textColor="#000000"
+        android:textSize="50px"
+        android:background="#32CD32"/>
+
+    <Button
+        android:id="@+id/yourBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.25"
+        android:text="YOUR POSTS"
+        android:background="#00BFFF"
+        android:textColor="#000000"
+        android:textSize="50px"/>
+
+</LinearLayout>
