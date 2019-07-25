@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "424614696847",
+    "firebase_url": "https://uhclcommunicator.firebaseio.com",
+    "project_id": "uhclcommunicator",
+    "storage_bucket": "uhclcommunicator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424614696847:android:1eeae2be03263447",
+        "android_client_info": {
+          "package_name": "com.example.chinni.uhclcommunicator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424614696847-ssso2vpsa7ljt21hfbcm1ss7pmvc8iou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chinni.uhclcommunicator",
+            "certificate_hash": "908425541866762bfb3880afcc97d3345f9e3f6d"
+          }
+        },
+        {
+          "client_id": "424614696847-76bjst080898jhu9kegu2nhmdu2snrfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_CeVDnOmlQd4vkisRZ-J6EvshMNWO_cM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424614696847-76bjst080898jhu9kegu2nhmdu2snrfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
