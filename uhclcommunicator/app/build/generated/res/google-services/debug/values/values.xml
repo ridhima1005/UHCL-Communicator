@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">424614696847-76bjst080898jhu9kegu2nhmdu2snrfb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://uhclcommunicator.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">424614696847</string>
+    <string name="google_api_key" translatable="false">AIzaSyB_CeVDnOmlQd4vkisRZ-J6EvshMNWO_cM</string>
+    <string name="google_app_id" translatable="false">1:424614696847:android:1eeae2be03263447</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB_CeVDnOmlQd4vkisRZ-J6EvshMNWO_cM</string>
+    <string name="google_storage_bucket" translatable="false">uhclcommunicator.appspot.com</string>
+</resources>
